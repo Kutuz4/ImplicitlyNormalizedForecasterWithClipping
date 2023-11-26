@@ -5,7 +5,7 @@ https://arxiv.org/abs/2305.06743.
 
 In order to run code:
 
-- clone this repo and install 'requirements.txt' 
+- clone this repo and install `requirements.txt` 
 
 
 - type command
