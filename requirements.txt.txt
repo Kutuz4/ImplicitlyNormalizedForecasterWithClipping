@@ -1,0 +1,7 @@
+tqdm
+copy
+os
+matplotlib
+numpy
+scipy
+cvxpy
