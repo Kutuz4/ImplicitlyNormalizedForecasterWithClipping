@@ -1,6 +1,6 @@
 # ImplicitlyNormalizedForecasterWithClipping
 
-In this represitory we provide code for experiments with different popular MultiArmBandits solvers and heavy-tailed noise in reward functions. We also demonstrate our novel solver from paper  
+In this repository we provide code for experiments with different popular MultiArmBandits solvers and heavy-tailed noise in reward functions. We also demonstrate our novel solver from paper  
 https://arxiv.org/abs/2305.06743.
 
 In order to run code clone this repo and type command
@@ -11,6 +11,6 @@ where
 
 - `n_arms ` is number of arms for each bandit
 - `iterations` is number of iterations for each algorithm per one run
-- `n_runs` is number of rums for each algorithm
-- `plot_num` is number of plots that will be saved during experimment
+- `n_runs` is number of runs for each algorithm
+- `plot_num` is number of plots that will be saved during experiment
 - `output` is name of output folder for plots
